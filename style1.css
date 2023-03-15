@@ -1,0 +1,74 @@
+section{
+    border: 2px solid none;
+    box-shadow: 0 2px 6px gray;
+    border-radius: 12px;
+    width: 550px;
+    margin-left: 400px;
+    margin-top: 20px;
+    padding-left: 40px;
+    padding-top: 10px;
+    padding-bottom: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:slateblue;
+}
+img{
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    border-radius: 100px;
+    margin-left: 150px;
+    margin-top:20px;
+}
+input{
+    margin-left:80px;
+    padding: 8px 15px;
+    border:solid 1px white;
+    border-radius: 5px;
+    width: 450px;
+   font-size: 16px;
+}
+label{
+    font-weight: bold;
+}
+a:hover{
+    text-decoration: none;
+}
+button{
+    padding: 5px 10px;
+    font-weight: bold;
+    font-size: 18px;
+    margin-left: 120px;
+    margin-top: 30px;
+    border-radius: 4px;
+    background-color: orangered;
+    color:white;
+    border: solid 2px orangered;
+    padding: 5px 15px;
+    cursor: pointer;
+}
+button:hover{
+    background-color: orange;
+    border: 2px solid orange;
+}
+span{
+    
+    color: white;
+    padding:8px 15px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+span:hover{
+    border:white 2px solid ;
+    background-color: slateblue;
+    color: white;
+    padding:8px 15px;
+    border-radius: 4px;
+    text-decoration: none;
+}
+/*------------Welcome--------------*/
+.welcome{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color:rgb(2, 65, 2);
+}

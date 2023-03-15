@@ -1,0 +1,68 @@
+
+section{
+    box-shadow: 0 2px 5px black;
+    border-radius: 12px;
+   width:450px;
+   padding-left: 40px;
+   padding-top:2px;
+   padding-bottom: 40px;
+   margin-left: 450px;
+   margin-top:60px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-size: 18px;
+   background-color:cadetblue;
+}
+
+input{
+    margin-left: 50px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    border-style: solid;
+   background-color: cornsilk;
+   font-size: 16px;
+}
+.name{
+    margin-left: 28px;
+}
+.email{
+    margin-left: 32px;
+}
+.phone{
+    margin-left: 26px;
+}
+.password,.confirm-pass{
+    margin-top:0px;
+    margin-left: 46px;
+}
+button{
+    margin-left: 100px;
+    margin-top: 20px;
+    font-size: 16px;
+    color:rgb(193, 45, 69);
+    border-radius: 4px;
+    padding:8px 15px;
+    font-weight: bold;
+    border: none;
+    color:white;
+    background-color: rgb(238, 57, 37);
+    cursor: pointer;
+}
+button:hover{
+    background-color:rgba(183, 67, 25, 0.852) ;
+  
+}
+button:active{
+    background-color:rgba(183, 67, 25, 0.852) ;
+    transform: translateY(2px);
+    box-shadow: 0 1px gray;
+}
+h1{
+    margin:50px;
+    margin-left: 80px;
+}
+label{
+    color:white;
+}
+
+
+
